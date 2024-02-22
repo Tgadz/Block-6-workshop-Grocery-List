@@ -10,6 +10,7 @@ section {
     width: 250px;
     margin: 10px;
     border-style: dashed;
+    padding: 10px;
 }
 
 .freezer {
@@ -18,13 +19,14 @@ section {
     width: 250px;
     margin: 10px;
     border-style: dashed;
+    padding: 10px;
 }
 
 #first {
     color: maroon;
     background-color: black;
     height: auto;
-    width: 801px;
+    width: 860px;
     border-style: double;
     text-align: center;
 }
@@ -33,7 +35,7 @@ section {
     color: aqua;
     background-color: black;
     height: auto;
-    width: 801px;
+    width: 860px;
     border-style: double;
     text-align: center;
 }
@@ -43,4 +45,5 @@ img {
     height: 150px;
     width: 250px;
     margin-top: 10px;
+    padding: 10px;
 }
