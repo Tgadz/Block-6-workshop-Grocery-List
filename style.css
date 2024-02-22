@@ -1,0 +1,46 @@
+section {
+    height: 220px;
+    width: auto;
+    display:flex
+}
+
+.pantry {
+    background-color: darkgray;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    border-style: dashed;
+}
+
+.freezer {
+    background-color: darkgray;
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    border-style: dashed;
+}
+
+#first {
+    color: maroon;
+    background-color: black;
+    height: auto;
+    width: 801px;
+    border-style: double;
+    text-align: center;
+}
+
+#second {
+    color: aqua;
+    background-color: black;
+    height: auto;
+    width: 801px;
+    border-style: double;
+    text-align: center;
+}
+
+img {
+    border-style: dashed;
+    height: 150px;
+    width: 250px;
+    margin-top: 10px;
+}
